@@ -1,4 +1,4 @@
-# Retina Blood Vessel Segmentation using UNET in PyTorch
+# Retinal Blood Vessel Segmentation using UNET & UNETR in PyTorch
 
 This repository contains the code for semantic segmentation of the retina blood vessel on the DRIVE dataset using UNET and UNETR architecture in PyTorch framework.
 <br/> <br/>
