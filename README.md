@@ -4,27 +4,14 @@ This repository contains the code for semantic segmentation of the retina blood 
 <br/> <br/>
 
 
-# Overviewrom 
-- Architecture
-- Checkpoint
-- Results
-
-# Architecture
-The block diagram of the UNET architecture taken from the original paper.
-
-| ![U-Net Architecture](img/u-net-architecture.png) |
-| :--: |
-| *U-Net Architecture* |
-
-
 # Results
 The images below contains:
 1. Input image
 2. Ground truth 
 3. Predicted mask
 
-| ![](results/01_test.png) |
+| ![](result/01_test.png) |
 | :--: |
-| ![](results/02_test.png) |
-| ![](results/03_test.png) |
-| ![](results/04_test.png) |
+| ![](result/02_test.png) |
+| ![](result/03_test.png) |
+| ![](result/04_test.png) |
