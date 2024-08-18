@@ -5,10 +5,7 @@ This repository contains the code for semantic segmentation of the retinal blood
 
 
 # Results
-The images below contains:
-1. Input image
-2. Ground truth 
-3. Predicted mask
+
 
 | ![](result/01_test.png) |
 | :--: |
